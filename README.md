@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi I'm Sameer and I Fill the void with code! <br>I am a passionate full stack web developer.<br>
+Hi I'm Sameer and I fill the void with code! <br>I am a  passionate full stack web developer. My goal is to create something that never existed before and contribute to the life changing technology.<br>
 
 
 ## 🌐 Socials:
