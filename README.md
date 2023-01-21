@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi I'm Sameer and I fill the void with code! <br>I'm a passionate developer. My goal is to create something that never existed before and contribute to the life changing technology.Currently, working as Technical Associate for Genpact. When I'm not coding, I'd be running, exercising and spend time with loved ones. 
+Hi I'm Sameer and I fill the void with code! <br>I'm a passionate developer. My goal is to create something that never existed before and contribute to the life changing technology. Currently, working as Technical Associate for Genpact. When I'm not coding, I'd be running, exercising and spend time with loved ones. 
 
 
 ## 🌐 Socials:
